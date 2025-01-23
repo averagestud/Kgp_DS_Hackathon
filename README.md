@@ -1,1 +1,2 @@
 # Kgp_DS_Hackathon
+The project focuses on developing an AI-driven system to automate the evaluation of research papers for publishability and recommend suitable academic conferences for submission. It involves classifying papers as "Publishable" or "Non-Publishable" based on their quality and aligning publishable papers with conferences like CVPR, NeurIPS, and EMNLP, supported by formal justifications.
