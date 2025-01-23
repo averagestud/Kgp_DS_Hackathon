@@ -1,0 +1,136 @@
+Paper ID,Publishable,Conference,Rationale
+P001,1,cvpr,"The paper's topic overlaps moderately with CVPR. However, it may be more suitable for other conferences focusing on broader themes."
+P002,0,na,na
+P003,1,tmlr,"The paper's topic overlaps moderately with TMLR. However, it may be more suitable for other conferences focusing on broader themes."
+P004,1,kdd,"The paper's topic overlaps moderately with KDD. However, it may be more suitable for other conferences focusing on broader themes."
+P005,1,neurips,"The paper aligns well with NeurIPS, focusing on similar research areas such as neural networks, deep learning, reinforcement learning, AI algorithms. The methodology and findings are consistent with those commonly presented at NeurIPS."
+P006,0,na,na
+P007,1,kdd,"The paper's topic overlaps moderately with KDD. However, it may be more suitable for other conferences focusing on broader themes."
+P008,0,na,na
+P009,1,kdd,"The paper's topic overlaps moderately with KDD. However, it may be more suitable for other conferences focusing on broader themes."
+P010,1,emnlp,"The paper's topic overlaps moderately with EMNLP. However, it may be more suitable for other conferences focusing on broader themes."
+P011,1,tmlr,"The paper's topic overlaps moderately with TMLR. However, it may be more suitable for other conferences focusing on broader themes."
+P012,1,tmlr,"The paper's topic overlaps moderately with TMLR. However, it may be more suitable for other conferences focusing on broader themes."
+P013,1,tmlr,"The paper's topic overlaps moderately with TMLR. However, it may be more suitable for other conferences focusing on broader themes."
+P014,1,cvpr,"The paper's topic overlaps moderately with CVPR. However, it may be more suitable for other conferences focusing on broader themes."
+P015,1,kdd,"The paper's topic overlaps moderately with KDD. However, it may be more suitable for other conferences focusing on broader themes."
+P016,0,na,na
+P017,1,neurips,"The paper aligns well with NeurIPS, focusing on similar research areas such as neural networks, deep learning, reinforcement learning, AI algorithms. The methodology and findings are consistent with those commonly presented at NeurIPS."
+P018,1,kdd,"The paper's topic overlaps moderately with KDD. However, it may be more suitable for other conferences focusing on broader themes."
+P019,1,neurips,"The paper's topic overlaps moderately with NeurIPS. However, it may be more suitable for other conferences focusing on broader themes."
+P020,0,na,na
+P021,1,emnlp,"The paper's topic overlaps moderately with EMNLP. However, it may be more suitable for other conferences focusing on broader themes."
+P022,0,na,na
+P023,1,cvpr,"The paper's topic overlaps moderately with CVPR. However, it may be more suitable for other conferences focusing on broader themes."
+P024,1,kdd,"The paper's topic overlaps moderately with KDD. However, it may be more suitable for other conferences focusing on broader themes."
+P025,1,neurips,"The paper aligns well with NeurIPS, focusing on similar research areas such as neural networks, deep learning, reinforcement learning, AI algorithms. The methodology and findings are consistent with those commonly presented at NeurIPS."
+P026,1,neurips,"The paper's topic overlaps moderately with NeurIPS. However, it may be more suitable for other conferences focusing on broader themes."
+P027,1,kdd,"The paper's topic overlaps moderately with KDD. However, it may be more suitable for other conferences focusing on broader themes."
+P028,1,neurips,"The paper's topic overlaps moderately with NeurIPS. However, it may be more suitable for other conferences focusing on broader themes."
+P029,1,cvpr,"The paper's topic overlaps moderately with CVPR. However, it may be more suitable for other conferences focusing on broader themes."
+P030,1,cvpr,"The paper's topic overlaps moderately with CVPR. However, it may be more suitable for other conferences focusing on broader themes."
+P031,1,emnlp,"The paper's topic overlaps moderately with EMNLP. However, it may be more suitable for other conferences focusing on broader themes."
+P032,0,na,na
+P033,1,emnlp,"The paper's topic overlaps moderately with EMNLP. However, it may be more suitable for other conferences focusing on broader themes."
+P034,1,emnlp,"The paper's topic overlaps moderately with EMNLP. However, it may be more suitable for other conferences focusing on broader themes."
+P035,1,tmlr,"The paper's topic overlaps moderately with TMLR. However, it may be more suitable for other conferences focusing on broader themes."
+P036,0,na,na
+P037,1,kdd,"The paper's topic overlaps moderately with KDD. However, it may be more suitable for other conferences focusing on broader themes."
+P038,1,cvpr,"The paper's topic overlaps moderately with CVPR. However, it may be more suitable for other conferences focusing on broader themes."
+P039,0,na,na
+P040,1,cvpr,"The paper's topic overlaps moderately with CVPR. However, it may be more suitable for other conferences focusing on broader themes."
+P041,1,emnlp,"The paper's topic overlaps moderately with EMNLP. However, it may be more suitable for other conferences focusing on broader themes."
+P042,1,cvpr,"The paper's topic overlaps moderately with CVPR. However, it may be more suitable for other conferences focusing on broader themes."
+P043,0,na,na
+P044,1,emnlp,"The paper's topic overlaps moderately with EMNLP. However, it may be more suitable for other conferences focusing on broader themes."
+P045,1,emnlp,"The paper's topic overlaps moderately with EMNLP. However, it may be more suitable for other conferences focusing on broader themes."
+P046,1,emnlp,"The paper's topic overlaps moderately with EMNLP. However, it may be more suitable for other conferences focusing on broader themes."
+P047,0,na,na
+P048,1,tmlr,"The paper's topic overlaps moderately with TMLR. However, it may be more suitable for other conferences focusing on broader themes."
+P049,1,emnlp,"The paper's topic overlaps moderately with EMNLP. However, it may be more suitable for other conferences focusing on broader themes."
+P050,1,emnlp,"The paper's topic overlaps moderately with EMNLP. However, it may be more suitable for other conferences focusing on broader themes."
+P051,1,kdd,"The paper's topic overlaps moderately with KDD. However, it may be more suitable for other conferences focusing on broader themes."
+P052,1,kdd,"The paper's topic overlaps moderately with KDD. However, it may be more suitable for other conferences focusing on broader themes."
+P053,0,na,na
+P054,1,cvpr,"The paper aligns well with CVPR, focusing on similar research areas such as computer vision, image processing, deep learning, object detection. The methodology and findings are consistent with those commonly presented at CVPR."
+P055,1,kdd,"The paper's topic overlaps moderately with KDD. However, it may be more suitable for other conferences focusing on broader themes."
+P056,0,na,na
+P057,1,neurips,"The paper's topic overlaps moderately with NeurIPS. However, it may be more suitable for other conferences focusing on broader themes."
+P058,1,neurips,"The paper aligns well with NeurIPS, focusing on similar research areas such as neural networks, deep learning, reinforcement learning, AI algorithms. The methodology and findings are consistent with those commonly presented at NeurIPS."
+P059,1,neurips,"The paper aligns well with NeurIPS, focusing on similar research areas such as neural networks, deep learning, reinforcement learning, AI algorithms. The methodology and findings are consistent with those commonly presented at NeurIPS."
+P060,0,na,na
+P061,1,kdd,"The paper's topic overlaps moderately with KDD. However, it may be more suitable for other conferences focusing on broader themes."
+P062,1,cvpr,"The paper's topic overlaps moderately with CVPR. However, it may be more suitable for other conferences focusing on broader themes."
+P063,1,emnlp,"The paper's topic overlaps moderately with EMNLP. However, it may be more suitable for other conferences focusing on broader themes."
+P064,0,na,na
+P065,1,kdd,"The paper's topic overlaps moderately with KDD. However, it may be more suitable for other conferences focusing on broader themes."
+P066,1,kdd,"The paper's topic overlaps moderately with KDD. However, it may be more suitable for other conferences focusing on broader themes."
+P067,1,cvpr,"The paper's topic overlaps moderately with CVPR. However, it may be more suitable for other conferences focusing on broader themes."
+P068,1,cvpr,"The paper's topic overlaps moderately with CVPR. However, it may be more suitable for other conferences focusing on broader themes."
+P069,0,na,na
+P070,0,na,na
+P071,1,kdd,"The paper's topic overlaps moderately with KDD. However, it may be more suitable for other conferences focusing on broader themes."
+P072,1,neurips,"The paper's topic overlaps moderately with NeurIPS. However, it may be more suitable for other conferences focusing on broader themes."
+P073,0,na,na
+P074,1,cvpr,"The paper's topic overlaps moderately with CVPR. However, it may be more suitable for other conferences focusing on broader themes."
+P075,1,emnlp,"The paper's topic overlaps moderately with EMNLP. However, it may be more suitable for other conferences focusing on broader themes."
+P076,1,tmlr,"The paper's topic overlaps moderately with TMLR. However, it may be more suitable for other conferences focusing on broader themes."
+P077,0,na,na
+P078,0,na,na
+P079,1,cvpr,"The paper's topic overlaps moderately with CVPR. However, it may be more suitable for other conferences focusing on broader themes."
+P080,1,neurips,"The paper's topic overlaps moderately with NeurIPS. However, it may be more suitable for other conferences focusing on broader themes."
+P081,0,na,na
+P082,1,neurips,"The paper's topic overlaps moderately with NeurIPS. However, it may be more suitable for other conferences focusing on broader themes."
+P083,1,emnlp,"The paper's topic overlaps moderately with EMNLP. However, it may be more suitable for other conferences focusing on broader themes."
+P084,0,na,na
+P085,1,tmlr,"The paper's topic overlaps moderately with TMLR. However, it may be more suitable for other conferences focusing on broader themes."
+P086,0,na,na
+P087,1,neurips,"The paper aligns well with NeurIPS, focusing on similar research areas such as neural networks, deep learning, reinforcement learning, AI algorithms. The methodology and findings are consistent with those commonly presented at NeurIPS."
+P088,1,neurips,"The paper aligns well with NeurIPS, focusing on similar research areas such as neural networks, deep learning, reinforcement learning, AI algorithms. The methodology and findings are consistent with those commonly presented at NeurIPS."
+P089,1,neurips,"The paper aligns well with NeurIPS, focusing on similar research areas such as neural networks, deep learning, reinforcement learning, AI algorithms. The methodology and findings are consistent with those commonly presented at NeurIPS."
+P090,1,cvpr,"The paper's topic overlaps moderately with CVPR. However, it may be more suitable for other conferences focusing on broader themes."
+P091,1,cvpr,"The paper's topic overlaps moderately with CVPR. However, it may be more suitable for other conferences focusing on broader themes."
+P092,1,kdd,"The paper's topic overlaps moderately with KDD. However, it may be more suitable for other conferences focusing on broader themes."
+P093,1,emnlp,"The paper's topic overlaps moderately with EMNLP. However, it may be more suitable for other conferences focusing on broader themes."
+P094,0,na,na
+P095,0,na,na
+P096,0,na,na
+P097,0,na,na
+P098,1,kdd,"The paper's topic overlaps moderately with KDD. However, it may be more suitable for other conferences focusing on broader themes."
+P099,1,cvpr,"The paper's topic overlaps moderately with CVPR. However, it may be more suitable for other conferences focusing on broader themes."
+P100,1,emnlp,"The paper's topic overlaps moderately with EMNLP. However, it may be more suitable for other conferences focusing on broader themes."
+P101,0,na,na
+P102,1,cvpr,"The paper's topic overlaps moderately with CVPR. However, it may be more suitable for other conferences focusing on broader themes."
+P103,1,emnlp,"The paper's topic overlaps moderately with EMNLP. However, it may be more suitable for other conferences focusing on broader themes."
+P104,1,cvpr,"The paper's topic overlaps moderately with CVPR. However, it may be more suitable for other conferences focusing on broader themes."
+P105,0,na,na
+P106,0,na,na
+P107,1,tmlr,"The paper's topic overlaps moderately with TMLR. However, it may be more suitable for other conferences focusing on broader themes."
+P108,1,cvpr,"The paper's topic overlaps moderately with CVPR. However, it may be more suitable for other conferences focusing on broader themes."
+P109,0,na,na
+P110,1,emnlp,"The paper's topic overlaps moderately with EMNLP. However, it may be more suitable for other conferences focusing on broader themes."
+P111,1,neurips,"The paper aligns well with NeurIPS, focusing on similar research areas such as neural networks, deep learning, reinforcement learning, AI algorithms. The methodology and findings are consistent with those commonly presented at NeurIPS."
+P112,1,neurips,"The paper's topic overlaps moderately with NeurIPS. However, it may be more suitable for other conferences focusing on broader themes."
+P113,1,cvpr,"The paper's topic overlaps moderately with CVPR. However, it may be more suitable for other conferences focusing on broader themes."
+P114,0,na,na
+P115,1,cvpr,"The paper's topic overlaps moderately with CVPR. However, it may be more suitable for other conferences focusing on broader themes."
+P116,1,kdd,"The paper's topic overlaps moderately with KDD. However, it may be more suitable for other conferences focusing on broader themes."
+P117,1,cvpr,"The paper's topic overlaps moderately with CVPR. However, it may be more suitable for other conferences focusing on broader themes."
+P118,1,kdd,"The paper's topic overlaps moderately with KDD. However, it may be more suitable for other conferences focusing on broader themes."
+P119,1,tmlr,"The paper's topic overlaps moderately with TMLR. However, it may be more suitable for other conferences focusing on broader themes."
+P120,1,emnlp,"The paper's topic overlaps moderately with EMNLP. However, it may be more suitable for other conferences focusing on broader themes."
+P121,1,kdd,"The paper's topic overlaps moderately with KDD. However, it may be more suitable for other conferences focusing on broader themes."
+P122,1,cvpr,"The paper's topic overlaps moderately with CVPR. However, it may be more suitable for other conferences focusing on broader themes."
+P123,1,emnlp,"The paper's topic overlaps moderately with EMNLP. However, it may be more suitable for other conferences focusing on broader themes."
+P124,0,na,na
+P125,1,kdd,"The paper's topic overlaps moderately with KDD. However, it may be more suitable for other conferences focusing on broader themes."
+P126,1,kdd,"The paper's topic overlaps moderately with KDD. However, it may be more suitable for other conferences focusing on broader themes."
+P127,1,neurips,"The paper's topic overlaps moderately with NeurIPS. However, it may be more suitable for other conferences focusing on broader themes."
+P128,1,emnlp,"The paper's topic overlaps moderately with EMNLP. However, it may be more suitable for other conferences focusing on broader themes."
+P129,1,tmlr,"The paper's topic overlaps moderately with TMLR. However, it may be more suitable for other conferences focusing on broader themes."
+P130,0,na,na
+P131,1,cvpr,"The paper's topic overlaps moderately with CVPR. However, it may be more suitable for other conferences focusing on broader themes."
+P132,1,kdd,"The paper's topic overlaps moderately with KDD. However, it may be more suitable for other conferences focusing on broader themes."
+P133,1,kdd,"The paper's topic overlaps moderately with KDD. However, it may be more suitable for other conferences focusing on broader themes."
+P134,0,na,na
+P135,1,neurips,"The paper aligns well with NeurIPS, focusing on similar research areas such as neural networks, deep learning, reinforcement learning, AI algorithms. The methodology and findings are consistent with those commonly presented at NeurIPS."
